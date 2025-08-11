@@ -1,7 +1,7 @@
-# Hi there! 👋 I'm Haakon
+# Hi there! 
 
 ## About Me 💻
-I'm an IT Consultant specializing in **Digital Workplace solutions** and **Microsoft 365** implementations. Based in Norway 🇳🇴, I help organizations modernize their IT infrastructure through efficient endpoint management and PowerShell automation.
+I'm Haakon, an IT Consultant specializing in **Digital Workplace solutions** and **Microsoft 365** implementations. Based in Norway 🇳🇴, I help organizations modernize their IT infrastructure through efficient endpoint management and PowerShell automation.
 
 ## What I Do 🎯
 - **Digital Workplace Architecture**: Modern workplace solutions & endpoint management
