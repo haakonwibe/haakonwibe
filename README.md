@@ -18,6 +18,10 @@ I'm Haakon, an IT consultant from Norway, working with Digital Workplace solutio
 
 Declarative registry management for Microsoft Intune using JSON configuration files. Features transaction logging, rollback support, and flexible detection logic.
 
+### **[PSModuleMaintenance](https://github.com/haakonwibe/PSModuleMaintenance)**
+
+Automated PowerShell module maintenance using PSResourceGet. Updates modules, prunes old versions, and logs everything — runs weekly via scheduled task.
+
 ### **[Intune Management Toolkit](https://github.com/haakonwibe/intune-management-toolkit)**
 
 PowerShell scripts for Intune administration and Windows Autopilot management.
