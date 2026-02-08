@@ -26,10 +26,6 @@ Automated PowerShell module maintenance using PSResourceGet. Updates modules, pr
 
 PowerShell scripts for Intune administration and Windows Autopilot management.
 
-### **[Windows Scripts](https://github.com/haakonwibe/windows-scripts)**
-
-Personal Windows utilities - safe device removal, iCloud sync, and other handy tools.
-
 ### **[PowerShell Utilities](https://github.com/haakonwibe/powershell-utilities)**
 
 Collection of PowerShell utilities for Active Directory, Exchange, migration tasks, and system administration.
