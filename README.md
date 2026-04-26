@@ -14,11 +14,15 @@ I'm Haakon, an IT consultant from Norway, working with Digital Workplace solutio
 
 ## My Repositories
 
+### 🆕 **[m365apps-deploy](https://github.com/haakonwibe/m365apps-deploy)**
+
+A production-ready toolkit for deploying Microsoft 365 Apps for Enterprise, Visio, Project, and language packs through Microsoft Intune. Three commands take you from empty directory to `.intunewin` packages, no XML editing required. Customize via CLI flags or one config file, with 113 auto-generated per-language detection scripts and symmetric install/uninstall for every product.
+
 ### 🔐 **[CA Simulator](https://github.com/haakonwibe/ca-simulator)**
 
 A Conditional Access policy simulator for Microsoft Entra ID. Evaluate sign-in scenarios against real CA policies with full evaluation tracing — see exactly why each policy applies or doesn't. Three visualization modes, gap analysis, and persona mapping. Connect to your own tenant with your own app registration.
 
-### 🆕 **[Registry Configuration Engine](https://github.com/haakonwibe/registry-configuration-engine-v1)**
+### 🗂️ **[Registry Configuration Engine](https://github.com/haakonwibe/registry-configuration-engine-v1)**
 
 Declarative registry management for Microsoft Intune using JSON configuration files. Features transaction logging, rollback support, and flexible detection logic.
 
