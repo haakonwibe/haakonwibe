@@ -14,7 +14,11 @@ I'm Haakon, an IT consultant from Norway, working with Digital Workplace solutio
 
 ## My Repositories
 
-### 🆕 **[m365apps-deploy](https://github.com/haakonwibe/m365apps-deploy)**
+### 🆕 **[claude-code-intune](https://github.com/haakonwibe/claude-code-intune)**
+
+Microsoft Intune Win32 packages for deploying an AI-assisted developer kit to Autopilot devices: Claude Code, Claude Desktop, Git for Windows, VS Code, and PowerShell 7. Handles the per-user Claude Code bootstrap (`sysnative` re-launch, marker-file detection), MSIX deployment for Claude Desktop with `Add-AppxProvisionedPackage` and optional Cowork via Virtual Machine Platform, plus a version-plus-policy-hash detection signal that redeploys on config-only changes. Authenticode signature verification on every downloaded installer.
+
+### **[m365apps-deploy](https://github.com/haakonwibe/m365apps-deploy)**
 
 A production-ready toolkit for deploying Microsoft 365 Apps for Enterprise, Visio, Project, and language packs through Microsoft Intune. Three commands take you from empty directory to `.intunewin` packages, no XML editing required. Customize via CLI flags or one config file, with 113 auto-generated per-language detection scripts and symmetric install/uninstall for every product.
 
