@@ -5,6 +5,7 @@
 I work on Digital Workplace and endpoint management: packaging and delivery through Intune, Conditional Access design, and moving organisations off legacy Windows management onto modern approaches. Most of what ends up here started as something I needed at work and then got cleaned up enough to share.
 
 [![haakonwibe.com](https://img.shields.io/badge/haakonwibe.com-111111?style=flat-square)](https://haakonwibe.com)
+[![Alt Tab to Work](https://img.shields.io/badge/Blog-Alt%20Tab%20to%20Work-1F4E79?style=flat-square)](https://alttabtowork.com)
 
 ### Working with
 
@@ -87,4 +88,4 @@ I work on Digital Workplace and endpoint management: packaging and delivery thro
 
 ---
 
-<sub>Longer write-ups at [haakonwibe.com](https://haakonwibe.com).</sub>
+<sub>Longer write-ups on the blog: [Alt Tab to Work](https://alttabtowork.com) — all things Digital Workplace.</sub>
